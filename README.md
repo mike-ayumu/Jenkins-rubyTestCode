@@ -1,6 +1,5 @@
 # README
 
-## テストコード
 テストコードは、`spec/models/`フォルダの中にあります。
 
 This README would normally document whatever steps are necessary to get the
